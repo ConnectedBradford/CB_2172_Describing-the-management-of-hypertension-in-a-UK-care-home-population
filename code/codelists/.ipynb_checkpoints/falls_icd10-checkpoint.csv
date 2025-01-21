@@ -1,0 +1,162 @@
+ICD,code_description,provenance
+W000,Fall on same level involving ice and snow,somerset_patient_encounters
+W001,Fall on same level involving ice and snow,somerset_patient_encounters
+W002,Fall on same level involving ice and snow,somerset_patient_encounters
+W003,Fall on same level involving ice and snow,somerset_patient_encounters
+W004,Fall on same level involving ice and snow,somerset_patient_encounters
+W005,Fall on same level involving ice and snow,somerset_patient_encounters
+W006,Fall on same level involving ice and snow,somerset_patient_encounters
+W007,Fall on same level involving ice and snow,somerset_patient_encounters
+W008,Fall on same level involving ice and snow,somerset_patient_encounters
+W009,Fall on same level involving ice and snow,somerset_patient_encounters
+W010,"Fall on same level from slipping, tripping and stumbling",somerset_patient_encounters
+W011,"Fall on same level from slipping, tripping and stumbling",somerset_patient_encounters
+W012,"Fall on same level from slipping, tripping and stumbling",somerset_patient_encounters
+W013,"Fall on same level from slipping, tripping and stumbling",somerset_patient_encounters
+W014,"Fall on same level from slipping, tripping and stumbling",somerset_patient_encounters
+W015,"Fall on same level from slipping, tripping and stumbling",somerset_patient_encounters
+W016,"Fall on same level from slipping, tripping and stumbling",somerset_patient_encounters
+W017,"Fall on same level from slipping, tripping and stumbling",somerset_patient_encounters
+W018,"Fall on same level from slipping, tripping and stumbling",somerset_patient_encounters
+W019,"Fall on same level from slipping, tripping and stumbling",somerset_patient_encounters
+W020,"Fall involving ice-skates, skis, roller-skates or skateboards",somerset_patient_encounters
+W021,"Fall involving ice-skates, skis, roller-skates or skateboards",somerset_patient_encounters
+W022,"Fall involving ice-skates, skis, roller-skates or skateboards",somerset_patient_encounters
+W023,"Fall involving ice-skates, skis, roller-skates or skateboards",somerset_patient_encounters
+W024,"Fall involving ice-skates, skis, roller-skates or skateboards",somerset_patient_encounters
+W025,"Fall involving ice-skates, skis, roller-skates or skateboards",somerset_patient_encounters
+W028,"Fall involving ice-skates, skis, roller-skates or skateboards",somerset_patient_encounters
+W029,"Fall involving ice-skates, skis, roller-skates or skateboards",somerset_patient_encounters
+W030,"Other fall on same level due to collision with, or pushing by, another person",somerset_patient_encounters
+W031,"Other fall on same level due to collision with, or pushing by, another person",somerset_patient_encounters
+W032,"Other fall on same level due to collision with, or pushing by, another person",somerset_patient_encounters
+W033,"Other fall on same level due to collision with, or pushing by, another person",somerset_patient_encounters
+W034,"Other fall on same level due to collision with, or pushing by, another person",somerset_patient_encounters
+W035,"Other fall on same level due to collision with, or pushing by, another person",somerset_patient_encounters
+W038,"Other fall on same level due to collision with, or pushing by, another person",somerset_patient_encounters
+W039,"Other fall on same level due to collision with, or pushing by, another person",somerset_patient_encounters
+W040,Fall while being carried or supported by other persons,somerset_patient_encounters
+W041,Fall while being carried or supported by other persons,somerset_patient_encounters
+W042,Fall while being carried or supported by other persons,somerset_patient_encounters
+W044,Fall while being carried or supported by other persons,somerset_patient_encounters
+W045,Fall while being carried or supported by other persons,somerset_patient_encounters
+W048,Fall while being carried or supported by other persons,somerset_patient_encounters
+W049,Fall while being carried or supported by other persons,somerset_patient_encounters
+W050,Fall involving wheelchair,somerset_patient_encounters
+W051,Fall involving wheelchair,somerset_patient_encounters
+W052,Fall involving wheelchair,somerset_patient_encounters
+W053,Fall involving wheelchair,somerset_patient_encounters
+W054,Fall involving wheelchair,somerset_patient_encounters
+W055,Fall involving wheelchair,somerset_patient_encounters
+W058,Fall involving wheelchair,somerset_patient_encounters
+W059,Fall involving wheelchair,somerset_patient_encounters
+W060,Fall involving bed,somerset_patient_encounters
+W061,Fall involving bed,somerset_patient_encounters
+W062,Fall involving bed,somerset_patient_encounters
+W065,Fall involving bed,somerset_patient_encounters
+W067,Fall involving bed,somerset_patient_encounters
+W068,Fall involving bed,somerset_patient_encounters
+W069,Fall involving bed,somerset_patient_encounters
+W070,Fall involving chair,somerset_patient_encounters
+W071,Fall involving chair,somerset_patient_encounters
+W072,Fall involving chair,somerset_patient_encounters
+W073,Fall involving chair,somerset_patient_encounters
+W074,Fall involving chair,somerset_patient_encounters
+W075,Fall involving chair,somerset_patient_encounters
+W076,Fall involving chair,somerset_patient_encounters
+W078,Fall involving chair,somerset_patient_encounters
+W079,Fall involving chair,somerset_patient_encounters
+W080,Fall involving other furniture,somerset_patient_encounters
+W081,Fall involving other furniture,somerset_patient_encounters
+W082,Fall involving other furniture,somerset_patient_encounters
+W083,Fall involving other furniture,somerset_patient_encounters
+W084,Fall involving other furniture,somerset_patient_encounters
+W085,Fall involving other furniture,somerset_patient_encounters
+W086,Fall involving other furniture,somerset_patient_encounters
+W088,Fall involving other furniture,somerset_patient_encounters
+W089,Fall involving other furniture,somerset_patient_encounters
+W090,Fall involving playground equipment,somerset_patient_encounters
+W091,Fall involving playground equipment,somerset_patient_encounters
+W092,Fall involving playground equipment,somerset_patient_encounters
+W093,Fall involving playground equipment,somerset_patient_encounters
+W094,Fall involving playground equipment,somerset_patient_encounters
+W095,Fall involving playground equipment,somerset_patient_encounters
+W097,Fall involving playground equipment,somerset_patient_encounters
+W098,Fall involving playground equipment,somerset_patient_encounters
+W099,Fall involving playground equipment,somerset_patient_encounters
+W100,Fall on and from stairs and steps,somerset_patient_encounters
+W101,Fall on and from stairs and steps,somerset_patient_encounters
+W102,Fall on and from stairs and steps,somerset_patient_encounters
+W103,Fall on and from stairs and steps,somerset_patient_encounters
+W104,Fall on and from stairs and steps,somerset_patient_encounters
+W105,Fall on and from stairs and steps,somerset_patient_encounters
+W106,Fall on and from stairs and steps,somerset_patient_encounters
+W107,Fall on and from stairs and steps,somerset_patient_encounters
+W108,Fall on and from stairs and steps,somerset_patient_encounters
+W109,Fall on and from stairs and steps,somerset_patient_encounters
+W110,Fall on and from ladder,somerset_patient_encounters
+W112,Fall on and from ladder,somerset_patient_encounters
+W114,Fall on and from ladder,somerset_patient_encounters
+W115,Fall on and from ladder,somerset_patient_encounters
+W116,Fall on and from ladder,somerset_patient_encounters
+W117,Fall on and from ladder,somerset_patient_encounters
+W118,Fall on and from ladder,somerset_patient_encounters
+W119,Fall on and from ladder,somerset_patient_encounters
+W120,Fall on and from scaffolding,somerset_patient_encounters
+W126,Fall on and from scaffolding,somerset_patient_encounters
+W128,Fall on and from scaffolding,somerset_patient_encounters
+W129,Fall on and from scaffolding,somerset_patient_encounters
+W130,"Fall from, out of or through building or structure",somerset_patient_encounters
+W131,"Fall from, out of or through building or structure",somerset_patient_encounters
+W132,"Fall from, out of or through building or structure",somerset_patient_encounters
+W133,"Fall from, out of or through building or structure",somerset_patient_encounters
+W134,"Fall from, out of or through building or structure",somerset_patient_encounters
+W135,"Fall from, out of or through building or structure",somerset_patient_encounters
+W136,"Fall from, out of or through building or structure",somerset_patient_encounters
+W137,"Fall from, out of or through building or structure",somerset_patient_encounters
+W138,"Fall from, out of or through building or structure",somerset_patient_encounters
+W139,"Fall from, out of or through building or structure",somerset_patient_encounters
+W140,Fall from tree,somerset_patient_encounters
+W145,Fall from tree,somerset_patient_encounters
+W148,Fall from tree,somerset_patient_encounters
+W149,Fall from tree,somerset_patient_encounters
+W152,Fall from cliff,somerset_patient_encounters
+W158,Fall from cliff,somerset_patient_encounters
+W159,Fall from cliff,somerset_patient_encounters
+W160,Diving or jumping into water causing injury other than drowning or submersion,somerset_patient_encounters
+W162,Diving or jumping into water causing injury other than drowning or submersion,somerset_patient_encounters
+W163,Diving or jumping into water causing injury other than drowning or submersion,somerset_patient_encounters
+W165,Diving or jumping into water causing injury other than drowning or submersion,somerset_patient_encounters
+W168,Diving or jumping into water causing injury other than drowning or submersion,somerset_patient_encounters
+W169,Diving or jumping into water causing injury other than drowning or submersion,somerset_patient_encounters
+W170,Other fall from one level to another,somerset_patient_encounters
+W171,Other fall from one level to another,somerset_patient_encounters
+W172,Other fall from one level to another,somerset_patient_encounters
+W173,Other fall from one level to another,somerset_patient_encounters
+W174,Other fall from one level to another,somerset_patient_encounters
+W175,Other fall from one level to another,somerset_patient_encounters
+W176,Other fall from one level to another,somerset_patient_encounters
+W177,Other fall from one level to another,somerset_patient_encounters
+W178,Other fall from one level to another,somerset_patient_encounters
+W179,Other fall from one level to another,somerset_patient_encounters
+W180,Other fall on same level,somerset_patient_encounters
+W181,Other fall on same level,somerset_patient_encounters
+W182,Other fall on same level,somerset_patient_encounters
+W183,Other fall on same level,somerset_patient_encounters
+W184,Other fall on same level,somerset_patient_encounters
+W185,Other fall on same level,somerset_patient_encounters
+W186,Other fall on same level,somerset_patient_encounters
+W187,Other fall on same level,somerset_patient_encounters
+W188,Other fall on same level,somerset_patient_encounters
+W189,Other fall on same level,somerset_patient_encounters
+W190,Unspecified fall,somerset_patient_encounters
+W191,Unspecified fall,somerset_patient_encounters
+W192,Unspecified fall,somerset_patient_encounters
+W193,Unspecified fall,somerset_patient_encounters
+W194,Unspecified fall,somerset_patient_encounters
+W195,Unspecified fall,somerset_patient_encounters
+W196,Unspecified fall,somerset_patient_encounters
+W197,Unspecified fall,somerset_patient_encounters
+W198,Unspecified fall,somerset_patient_encounters
+W199,Unspecified fall,somerset_patient_encounters
+R296,"Tendency to fall, not elsewhere classified",somerset_patient_encounters
