@@ -1,0 +1,37 @@
+icd,provenance,description,type
+I60,opensafely,Subarachnoid haemorrhage,haemorrhagic
+I600,opensafely,Subarachnoid haemorrhage from carotid siphon and bifurcation,haemorrhagic
+I601,opensafely,Subarachnoid haemorrhage from middle cerebral artery,haemorrhagic
+I602,opensafely,Subarachnoid haemorrhage from anterior communicating artery,haemorrhagic
+I603,opensafely,Subarachnoid haemorrhage from posterior communicating artery,haemorrhagic
+I604,opensafely,Subarachnoid haemorrhage from basilar artery,haemorrhagic
+I605,opensafely,Subarachnoid haemorrhage from vertebral artery,haemorrhagic
+I606,opensafely,Subarachnoid haemorrhage from other intracranial arteries,haemorrhagic
+I607,opensafely,"Subarachnoid haemorrhage from intracranial artery, unspecified",haemorrhagic
+I608,opensafely,Other subarachnoid haemorrhage,haemorrhagic
+I609,opensafely,"Subarachnoid haemorrhage, unspecified",haemorrhagic
+I61,opensafely,Intracerebral haemorrhage,haemorrhagic
+I610,opensafely,"Intracerebral haemorrhage in hemisphere, subcortical",haemorrhagic
+I611,opensafely,"Intracerebral haemorrhage in hemisphere, cortical",haemorrhagic
+I612,opensafely,"Intracerebral haemorrhage in hemisphere, unspecified",haemorrhagic
+I613,opensafely,Intracerebral haemorrhage in brain stem,haemorrhagic
+I614,opensafely,Intracerebral haemorrhage in cerebellum,haemorrhagic
+I615,opensafely,"Intracerebral haemorrhage, intraventricular",haemorrhagic
+I616,opensafely,"Intracerebral haemorrhage, multiple localized",haemorrhagic
+I618,opensafely,Other intracerebral haemorrhage,haemorrhagic
+I619,opensafely,"Intracerebral haemorrhage, unspecified",haemorrhagic
+I62,opensafely,Other nontraumatic intracranial haemorrhage,haemorrhagic
+I620,opensafely,Subdural haemorrhage (acute)(nontraumatic),haemorrhagic
+I621,opensafely,Nontraumatic extradural haemorrhage,haemorrhagic
+I629,opensafely,"Intracranial haemorrhage (nontraumatic), unspecified",haemorrhagic
+I63,opensafely,Cerebral infarction,ischaemic 
+I630,opensafely,Cerebral infarction due to thrombosis of precerebral arteries,ischaemic 
+I631,opensafely,Cerebral infarction due to embolism of precerebral arteries,ischaemic 
+I632,opensafely,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,ischaemic 
+I633,opensafely,Cerebral infarction due to thrombosis of cerebral arteries,ischaemic 
+I634,opensafely,Cerebral infarction due to embolism of cerebral arteries,ischaemic 
+I635,opensafely,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,ischaemic 
+I636,opensafely,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",ischaemic 
+I638,opensafely,Other cerebral infarction,ischaemic 
+I639,opensafely,"Cerebral infarction, unspecified",ischaemic 
+I64,opensafely,"Stroke, not specified as haemorrhage or infarction",unspecified

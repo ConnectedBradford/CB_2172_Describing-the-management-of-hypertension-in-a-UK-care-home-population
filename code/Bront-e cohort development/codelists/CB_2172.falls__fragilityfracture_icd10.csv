@@ -1,0 +1,32 @@
+Code,provenance,Description
+W00,efalls,Fall on same level involving ice and snow
+W01,efalls,"Fall on same level from slipping, tripping and stumbling"
+W02,efalls,"Fall involving ice-skates, skis, roller-skates or skateboards"
+W03,efalls,"Other fall on same level due to collision with, or pushing by, another person"
+W04,efalls,Fall while being carried or supported by other persons
+W05,efalls,Fall involving wheelchair
+W06,efalls,Fall involving bed
+W07,efalls,Fall involving chair
+W08,efalls,Fall involving other furniture
+W09,efalls,Fall involving playground equipment
+W10,efalls,Fall on and from stairs and steps
+W11,efalls,Fall on and from ladder
+W12,efalls,Fall on and from scaffolding
+W13,efalls,"Fall from, out of or through building or structure"
+W14,efalls,Fall from tree
+W15,efalls,Fall from cliff
+W16,efalls,Diving or jumping into water causing injury other than drowning or submersion
+W17,efalls,Other fall from one level to another
+W18,efalls,Other fall on same level
+W19,efalls,Unspecified fall
+M80,efalls,Osteoporosis with pathological fracture
+S22,efalls,"Fracture of rib(s), sternum and thoracic spine"
+S32,efalls,Fracture of lumbar spine and pelvis
+S42,efalls,Fracture of shoulder and upper arm
+S52,efalls,Fracture of forearm
+S72,efalls,Fracture of femur
+S82,efalls,"Fracture of lower leg, including ankle"
+T08,efalls,"Fracture of spine, level unspecified"
+T10,efalls,"Fracture of upper limb, level unspecified"
+T12,efalls,"Fracture of lower limb, level unspecified"
+T14.2,efalls,Fracture of unspecified body region
