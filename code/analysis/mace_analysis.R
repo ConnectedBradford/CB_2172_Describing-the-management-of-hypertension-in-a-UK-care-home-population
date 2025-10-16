@@ -1,6 +1,6 @@
 # script to perform analysis of MACE events in care home cohort 
 #load packages
-library(ggplot2)
+#library(ggplot2)
 library(odbc)
 library(DBI)
 library(tidyverse)
@@ -263,35 +263,35 @@ pois.exact(mace_events_count, pt = exposure_time, conf.level = 0.95)
 # inidivudals whose exposure period included the months between march 2020 and december 2020 as hospital attendance 
 #may have been significnatly lower in the care home population
 
-#subdivide population in two groups accroding to admission date before and after june 2019 
+#subdivide population in two groups accroding to admission date before and after march 2019 
 
-ch_mace_pre_june_19 <- ch_mace_merged %>% filter(ch_admission_date < '2019-06-01')
+ch_mace_pre_march_19 <- ch_mace_merged %>% filter(ch_admission_date < '2019-03-20')
 
-ch_mace_post_june_19 <- ch_mace_merged %>% filter(ch_admission_date > '2019-06-01')
+ch_mace_post_march_19 <- ch_mace_merged %>% filter(ch_admission_date > '2019-03-20')
 
-#incidenc density pre june 2019 
+#incidenc density pre march 2019 
 
-(sum(!is.na(ch_mace_pre_june_19$event_type))/(sum(ch_mace_pre_june_19$exposure_time)/365))*100
+(sum(!is.na(ch_mace_pre_march_19$event_type))/(sum(ch_mace_pre_march_19$exposure_time)/365))*100
 
-ch_mace_pre_june_19$event_type <- as.factor(ch_mace_pre_june_19$event_type)
+ch_mace_pre_march_19$event_type <- as.factor(ch_mace_pre_march_19$event_type)
 
-exposure_time_1 <- sum(ch_mace_pre_june_19$exposure_time)/365
+exposure_time_1 <- sum(ch_mace_pre_march_19$exposure_time)/365
 
-mace_events_count_1<- sum(!is.na(ch_mace_pre_june_19$event_type))
-
-pois.exact(mace_events_count, pt = exposure_time, conf.level = 0.95)
-
-#incidence density post june 2019 
-
-(sum(!is.na(ch_mace_post_june_19$event_type))/(sum(ch_mace_post_june_19$exposure_time)/365))*100
-
-ch_mace_post_june_19$event_type <- as.factor(ch_mace_post_june_19$event_type)
-
-exposure_time_2 <- sum(ch_mace_post_june_19$exposure_time)/365
-
-mace_events_count_2<- sum(!is.na(ch_mace_post_june_19$event_type))
+mace_events_count_1<- sum(!is.na(ch_mace_pre_march_19$event_type))
 
 pois.exact(mace_events_count, pt = exposure_time, conf.level = 0.95)
 
-#poission test(exact) to determine difference between pre and post june 2019 
+#incidence density post march 2019 
+
+(sum(!is.na(ch_mace_post_march_19$event_type))/(sum(ch_mace_post_march_19$exposure_time)/365))*100
+
+ch_mace_post_march_19$event_type <- as.factor(ch_mace_post_march_19$event_type)
+
+exposure_time_2 <- sum(ch_mace_post_march_19$exposure_time)/365
+
+mace_events_count_2<- sum(!is.na(ch_mace_post_march_19$event_type))
+
+pois.exact(mace_events_count, pt = exposure_time, conf.level = 0.95)
+
+#poission test(exact) to determine difference between pre and post march 2019 
 poisson.test(c(mace_events_count_1,mace_events_count_2),c(exposure_time_1,exposure_time_2))
